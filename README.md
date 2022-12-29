@@ -8,8 +8,7 @@ Student, George Washington University
 * ✉️  You can contact me at [justjesserichter@gmail.com](mailto:justjesserichter@gmail.com)
 * 🚀  I'm currently working on [My Linux Distribution](http://jesserichter.github.io/distro)
 
-<a href="https://www.github.com/jesserichter" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jesserichter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
