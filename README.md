@@ -17,6 +17,7 @@ Student, George Washington University
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/home.en.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" width="36" height="36" alt="GNU" /></a>
+<a href="https://www.linuxfromscratch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Socials
