@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student, George Washington University
 -------------------------------------
 
---- * 🖥️  See my portfolio at [jesserichter.github.io](http://jesserichter.github.io)
 * ✉️  You can contact me at [justjesserichter@gmail.com](mailto:justjesserichter@gmail.com)
 * 🚀  I'm currently working on [My Linux Distribution](https://github.com/jesserichter/Gemini-Linux-Distribution)
 
